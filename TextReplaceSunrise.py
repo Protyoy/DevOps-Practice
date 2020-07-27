@@ -1,4 +1,4 @@
-import re
+#import re
 test_name = ''
 
 with open("C:\\Users\\iampr\\Desktop\\TextReplacementSunrise.txt") as infile:
